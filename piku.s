@@ -22,5 +22,5 @@ main:
     @ automatically adds a NULL character termination.
 message:
     .asciz  "I really want to add\n"
-    .asciz  "But for that I need permission\n"
+    .asciz  "Before I can program Pis\n"
     .asciz  "I need a number\n"
